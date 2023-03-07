@@ -1,4 +1,5 @@
-from bluepy.btle import UUID, Peripheral, DefaultDelegate, AssignedNumbers
+#from bluepy.btle import UUID, Peripheral, DefaultDelegate, AssignedNumbers
+from btle import UUID, Peripheral, DefaultDelegate
 import struct
 import math
 
